@@ -5,7 +5,7 @@
 body {
     margin: 0;
     padding: 18px;
-    font-family: "Inter", "Segoe UI", Arial, sans-serif;
+    font-family: Arial, Helvetica, sans-serif
     min-width: 420px;
     background:
         radial-gradient(circle at top left, rgba(0, 255, 140, 0.15), transparent 35%),
